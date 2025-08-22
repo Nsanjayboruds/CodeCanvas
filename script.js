@@ -46,7 +46,7 @@ const sampleProjects = [
     description: 'A modern, responsive portfolio website with smooth animations, dark mode toggle, and optimized performance. Great starting point for personal branding.',
     repoUrl: 'https://github.com/Nsanjayboruds/Template-hub',
     demoUrl: 'https://templateshub.netlify.app/',
-    difficulty: 'beginner',
+    difficulty: 'intermediate',
     upvotes: 31,
     hasDemo: true,
     hasReadme: true,
